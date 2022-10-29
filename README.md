@@ -21,3 +21,8 @@ Developer of mimt cliint
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Spinyfish&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinyyfish&count_private=true&langs_count=7" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Spinyyfish&count_private=true" />  
