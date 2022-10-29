@@ -24,5 +24,5 @@ Developer of mimt cliint
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinyyfish&count_private=true&langs_count=7" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Spinyyfish&count_private=true" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinyfish&count_private=true&langs_count=7" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Spinyfish&count_private=true" />  
