@@ -1,4 +1,4 @@
-### Hi there 👋
+### I (Me)
 
 Developer of mimt cliint
 
