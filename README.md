@@ -1,6 +1,12 @@
 ### I (Me)
 
-Developer of mimt cliint
+HELLO<
+
+Fluent in Java.
+
+19
+
+Currently going to Nottingham High School
 
 ### My Stats
 
