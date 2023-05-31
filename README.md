@@ -8,6 +8,11 @@ Fluent in Java.
 
 Currently going to Nottingham High School
 
+When your stack is full 😂
+
+![image](https://github.com/Spinyfish/Spinyfish/assets/93102482/0fca109b-171b-4fb3-b0d8-f8de029bf043)
+
+
 ### My Stats
 
 
